@@ -2,6 +2,8 @@ import random
 import numpy as num
 import math
 
+# Roney Joab Lemos Mendes - 201751091783
+
 # Funções de criar os parâmetros
 
 def createIdeals():
